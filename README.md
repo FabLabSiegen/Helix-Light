@@ -14,3 +14,7 @@ Work in Progess Bilder:
 <img src="images/wip1.jpg" height="350" /> 
 <img src="images/wip2.jpg" height="350" /> 
 <img src="images/wip3.jpg" height="350" /> 
+
+Models in Fusion 360:  
+<img src="images/fusion-full.PNG" height="350" />  <img src="images/fusion-base.PNG" height="350" />  
+<img src="images/fusion-base-schnitt.PNG" height="350" />  
